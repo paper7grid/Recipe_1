@@ -59,7 +59,7 @@ ul, ol {
     display: block;
     width: auto;
     height: auto;
-    max-width: 200px;
+    max-width: 250px;
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     margin: 20px auto;
